@@ -954,7 +954,7 @@ squiffy.story.sections = {
 		},
 	},
 	'TARDIS': {
-		'text': "<p>The patient didn&#39;t make it.</p>\n<p>An astronaut asks for a screwdriver to fix his ship. <a class=\"squiffy-link link-section\" data-section=\"Give it to Her\" role=\"link\" tabindex=\"0\">Give it to Her</a> or <a class=\"squiffy-link link-section\" data-section=\"Lie\" role=\"link\" tabindex=\"0\">Lie</a></p>",
+		'text': "<p>The patient didn&#39;t make it.</p>\n<p>An astronaut asks for a screwdriver to fix her ship. <a class=\"squiffy-link link-section\" data-section=\"Give it to Her\" role=\"link\" tabindex=\"0\">Give it to Her</a> or <a class=\"squiffy-link link-section\" data-section=\"Lie\" role=\"link\" tabindex=\"0\">Lie</a></p>",
 		'passages': {
 		},
 	},
